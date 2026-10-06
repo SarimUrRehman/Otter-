@@ -1,0 +1,6 @@
+{
+  "name": "Otter Car Detailing",
+  "description": "Precision Detailing for Cars, Vans & Caravans. Professional mobile valeting & ceramic coating in Ottery St Mary & East Devon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
